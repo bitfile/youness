@@ -4,11 +4,11 @@ New files will be uploaded
 
 ## About
 
-The codes included in this repo are for school projects and challenges for myself :D
+Codes included in this repo are for school projects and challenges for myself :D
 
 ### Prerequisites
 
-If you don't Matlab handy ... GNU Octave is your best friend ... Checkout the link below
+If you don't have Matlab handy ... GNU Octave is your best friend ... Checkout the link below
 
 https://www.gnu.org/software/octave/
 
