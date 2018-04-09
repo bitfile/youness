@@ -1,6 +1,6 @@
 # Youness
 
-New files will be uploaded
+New files will be uploaded. I may or may not include spreadsheet files with the code as they are only good for visual represantation. You can always feed the data in an array.
 
 ## About
 
